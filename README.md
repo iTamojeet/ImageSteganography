@@ -27,7 +27,7 @@ The application allows users to:
 
 ---
 
-# 🎯 Project Goals
+# Project Goals
 
 - Understand the concept of steganography.
 - Implement the Least Significant Bit (LSB) algorithm.
@@ -37,27 +37,27 @@ The application allows users to:
 
 ---
 
-# ⭐ Key Features
+# Key Features
 
-## 🔐 Encode Secret Messages
+## Encode Secret Messages
 
 Hide any text message inside an image without noticeably changing the image.
 
 ---
 
-## 🔓 Decode Hidden Messages
+## Decode Hidden Messages
 
 Extract the hidden message from the encoded image.
 
 ---
 
-## 🖼️ Image Preservation
+## Image Preservation
 
 The visual quality of the image remains almost identical to the original.
 
 ---
 
-## 💻 Offline Processing
+## Offline Processing
 
 Everything runs locally on your machine.
 
@@ -65,13 +65,13 @@ No internet connection is required.
 
 ---
 
-## ⚡ Streamlit Interface
+## Streamlit Interface
 
 Simple and interactive UI for encoding and decoding.
 
 ---
 
-## 🧠 Educational Purpose
+## Educational Purpose
 
 Understand:
 
@@ -83,7 +83,7 @@ Understand:
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 | Layer | Technology |
 |--------|--------|
@@ -95,7 +95,7 @@ Understand:
 
 ---
 
-# 🧩 How It Works
+# How It Works
 
 ## Step 1: User uploads an image
 
@@ -188,7 +188,7 @@ ImageSteganography/
 
 ---
 
-# 📄 File Explanation
+# File Explanation
 
 | File | Description |
 |--------|--------|
@@ -201,7 +201,7 @@ ImageSteganography/
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 ## 1. Clone the repository
 
@@ -284,7 +284,7 @@ pip install streamlit pillow
 
 ---
 
-# 🚀 Usage
+# Usage
 
 ## Encoding
 
@@ -304,7 +304,7 @@ pip install streamlit pillow
 
 ---
 
-# 🔍 Algorithm Used
+# Algorithm Used
 
 This project uses:
 
@@ -330,7 +330,7 @@ The human eye cannot notice the difference.
 
 ---
 
-### ⚠️ Problem Encountered During Development
+### Problem Encountered During Development
 
 While running the Streamlit application, the following error occurred:
 
@@ -393,21 +393,21 @@ Starlette 0.47.x or 0.48.x
 Uvicorn 0.35.x
 ```
 
-# 🧪 Future Updates
+# Future Updates
 
-## 🔐 Password protection for decoding
+## Password protection for decoding
 
 Require a password before extracting hidden data.
 
 ---
 
-## 🔒 AES encryption
+## AES encryption
 
 Encrypt the message before embedding it inside the image.
 
 ---
 
-## 📄 File embedding
+## File embedding
 
 Hide:
 
@@ -421,7 +421,7 @@ instead of only plain text.
 
 ---
 
-## 📊 Capacity analysis
+## Capacity analysis
 
 Display:
 
@@ -431,25 +431,25 @@ Display:
 
 ---
 
-## 🖼️ Drag-and-drop upload
+## Drag-and-drop upload
 
 Support drag-and-drop image uploading.
 
 ---
 
-## 🌙 Light/Dark mode
+## Light/Dark mode
 
 Use Streamlit themes.
 
 ---
 
-## 📜 History management
+## History management
 
 Maintain a history of encoded images.
 
 ---
 
-## 📱 Responsive UI
+## Responsive UI
 
 Improve layout using:
 
@@ -460,7 +460,7 @@ Improve layout using:
 
 ---
 
-## ☁️ Cloud deployment
+## Cloud deployment
 
 Deploy online using:
 
@@ -471,13 +471,13 @@ Deploy online using:
 
 ---
 
-## 🔄 Compression support
+## Compression support
 
 Compress messages before embedding.
 
 ---
 
-## 🧠 AI integration
+## AI integration
 
 Use AI to:
 
@@ -487,7 +487,7 @@ Use AI to:
 
 ---
 
-# 📚 Learning Outcomes
+# Learning Outcomes
 
 By building this project, you will learn:
 
@@ -502,7 +502,7 @@ By building this project, you will learn:
 
 ---
 
-# 📄 License
+# License
 
 MIT License
 
@@ -510,6 +510,6 @@ Free to use, modify and distribute.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
-Developed with ❤️ using Python and Streamlit.
+Developed with ❤️ by Tamo using Python and Streamlit.
